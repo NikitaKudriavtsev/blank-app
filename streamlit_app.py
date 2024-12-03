@@ -1,5 +1,4 @@
 import streamlit as st
-pip install transformers
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
